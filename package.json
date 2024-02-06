@@ -1,9 +1,9 @@
 {
-  "name": "color-modes",
-  "description": "Include Bootstrap's source Sass, JavaScript plugins, and color mode functionality via npm.",
-  "version": "0.0.0",
+  "name": "pfhub",
+  "description": "Website with Pathfinder 2e information for players.",
+  "version": "0.0.1",
   "private": true,
-  "repository": "twbs/examples",
+  "repository": "pfhub/",
   "license": "MIT",
   "stackblitz": {
     "startCommand": "npm start"
